@@ -1,0 +1,1 @@
+alert('hello,ini kode program js external');
